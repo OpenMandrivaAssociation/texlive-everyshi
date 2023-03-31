@@ -1,6 +1,6 @@
 Name:		texlive-everyshi
 Version:	57001
-Release:	1
+Release:	2
 Summary:	Take action at every \shipout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/everyshi
