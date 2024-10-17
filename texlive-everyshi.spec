@@ -3,7 +3,7 @@ Version:	57001
 Release:	2
 Summary:	Take action at every \shipout
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/everyshi
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/everyshi
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/everyshi.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/everyshi.doc.r%{version}.tar.xz
